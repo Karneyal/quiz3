@@ -4,19 +4,19 @@ const questions = [
         question: "True or False: Jesus said his true family was anyone who obeys God.(నిజం లేదా అబద్ధం: దేవునికి విధేయత చూపే వారెవరైనా తన నిజమైన కుటుంబం అని యేసు చెప్పాడు.)",
         options: ["True నిజమే", "False అబద్ధం"],
         answer: "True నిజమే",
-        clue: "Clue: I’m made for walking, one foot at a time, Leading you upward, it’s a gradual climb నేను నడవడానికి ఉపయోగిస్తారు, ఒక్కో అడుగు వేస్తూ,  పైకి ఎక్కడానికి సహాయపడుతాను, ఇది మెల్లగా జరుగుతుంది"
+        clue: "Clue: I have no legs, yet I can help you rise, Each step you take is a small surprise. I lead you upward, but can also go down, What am I, found everywhere. నాకు కాళ్లు లేవు, అయినా నేను మీకు ఎదగడానికి సహాయం చేయగలను, మీరు వేసే ప్రతి అడుగు చిన్న ఆశ్చర్యాన్ని కలిగిస్తుంది. నేను నిన్ను పైకి నడిపిస్తాను, కానీ కిందకు కూడా వెళ్ళగలను, నేను ఏమిటి, ప్రతిచోటా కనిపిస్తాను"
     },
     {
         question: "How many kings of Judah were there?(యూదా రాజులు ఎంతమంది ఉన్నారు?)",
         options: ["18", "20", "15", "25"],
         answer: "20",
-        clue: "Clue: I’m made for walking, one foot at a time, Leading you upward, it’s a gradual climb నేను నడవడానికి ఉపయోగిస్తారు, ఒక్కో అడుగు వేస్తూ,  పైకి ఎక్కడానికి సహాయపడుతాను, ఇది మెల్లగా జరుగుతుంది"
+        clue: "Clue: I have no legs, yet I can help you rise, Each step you take is a small surprise. I lead you upward, but can also go down, What am I, found everywhere. నాకు కాళ్లు లేవు, అయినా నేను మీకు ఎదగడానికి సహాయం చేయగలను, మీరు వేసే ప్రతి అడుగు చిన్న ఆశ్చర్యాన్ని కలిగిస్తుంది. నేను నిన్ను పైకి నడిపిస్తాను, కానీ కిందకు కూడా వెళ్ళగలను, నేను ఏమిటి, ప్రతిచోటా కనిపిస్తాను"
     },
     {
         question: "How many wives did Solomon have?(సొలొమోనుకు ఎంత మంది భార్యలు ఉన్నారు?)",
         options: ["1000", "700", "500", "300"],
         answer: "700",
-        clue: "Clue: I’m made for walking, one foot at a time, Leading you upward, it’s a gradual climb నేను నడవడానికి ఉపయోగిస్తారు, ఒక్కో అడుగు వేస్తూ,  పైకి ఎక్కడానికి సహాయపడుతాను, ఇది మెల్లగా జరుగుతుంది"
+        clue: "Clue: I have no legs, yet I can help you rise, Each step you take is a small surprise. I lead you upward, but can also go down, What am I, found everywhere. నాకు కాళ్లు లేవు, అయినా నేను మీకు ఎదగడానికి సహాయం చేయగలను, మీరు వేసే ప్రతి అడుగు చిన్న ఆశ్చర్యాన్ని కలిగిస్తుంది. నేను నిన్ను పైకి నడిపిస్తాను, కానీ కిందకు కూడా వెళ్ళగలను, నేను ఏమిటి, ప్రతిచోటా కనిపిస్తాను"
     },
     
 
